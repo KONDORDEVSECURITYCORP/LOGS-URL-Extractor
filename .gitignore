@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+obj/
+
+# Published binaries (distributed via GitHub Releases)
+publish/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# WebView2 user data
+WebView2/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (user data)
+resultados/
+extracted_urls/

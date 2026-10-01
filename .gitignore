@@ -1,0 +1,29 @@
+# Build outputs
+bin/
+obj/
+publish_out/
+
+# Published binaries (distributed via GitHub Releases)
+publish/
+
+# Internal test/verification scaffolding (not part of the product)
+_smoketest/
+
+# Extracted self-contained app folders
+LogsUrlExtractor-v2.0-win-x64/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# WebView2 user data
+WebView2/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results (user data)
+resultados/
+extracted_urls/

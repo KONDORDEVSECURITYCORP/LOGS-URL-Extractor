@@ -1,0 +1,8 @@
+<Application x:Class="LogsUrlExtractor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- StartupUri intentionally omitted. When published as a single-file
+         bundle the pack:// URI resolver cannot always locate embedded XAML,
+         which makes the process spin up without ever creating a window.
+         Startup is done programmatically in App.OnStartup (App.xaml.cs). -->
+</Application>
